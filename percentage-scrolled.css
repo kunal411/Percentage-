@@ -1,0 +1,32 @@
+#about{
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(4, 82, 226);
+    margin-top: 30px;
+}
+
+.image-gallary{
+    width: 90%;
+    background-color: darkgoldenrod;
+    height: 2000px;
+    margin: auto;
+}
+
+.per-scroll{
+    width: auto;
+    position: fixed;
+    left: 90%;
+    margin-top: 0px;
+    top: 0;
+    background-color: darkolivegreen;
+    margin-right: 20px;
+    text-align: center;
+    color: white;
+}
